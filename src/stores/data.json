@@ -1,0 +1,4650 @@
+[
+    {
+        "id":110204,
+        "name":"Paraffin embedding of formalin fixed tissue sample",
+        "specification":"Price per sample",
+        "Lagerartikel":"No",
+        "category_name":"Analytical services",
+        "unit_price":43
+    },
+    {
+        "id":110205,
+        "name":"Preparation of FFPE blocks from formalin-fixed cell pellets",
+        "specification":"Price per pellet",
+        "Lagerartikel":"No",
+        "category_name":"Analytical services",
+        "unit_price":187
+    },
+    {
+        "id":150101,
+        "name":"Standard histological staining",
+        "specification":"Price per slide",
+        "Lagerartikel":"No",
+        "category_name":"Analytical services",
+        "unit_price":29
+    },
+    {
+        "id":150201,
+        "name":"Immunohistochemistry service",
+        "specification":"Price per slide",
+        "Lagerartikel":"No",
+        "category_name":"Analytical services",
+        "unit_price":54
+    },
+    {
+        "id":150204,
+        "name":"Peptide competition reaction",
+        "specification":"Price per slide",
+        "Lagerartikel":"No",
+        "category_name":"Analytical services",
+        "unit_price":50
+    },
+    {
+        "id":150211,
+        "name":"Manufacturing of 1 slide of tissue block",
+        "specification":"Price per slide",
+        "Lagerartikel":"No",
+        "category_name":"Analytical services",
+        "unit_price":12
+    },
+    {
+        "id":150401,
+        "name":"Tissue slide scanning using automated digital histology system",
+        "specification":"Price per slide",
+        "Lagerartikel":"No",
+        "category_name":"Analytical services",
+        "unit_price":40
+    },
+    {
+        "id":150500,
+        "name":"Evaluation by Pathologist",
+        "specification":"Price per slide",
+        "Lagerartikel":"No",
+        "category_name":"Analytical services",
+        "unit_price":12
+    },
+    {
+        "id":150501,
+        "name":"Evaluation and encircling of relevant tissue area by Pathologist",
+        "specification":"Price per slide",
+        "Lagerartikel":"No",
+        "category_name":"Analytical services",
+        "unit_price":12
+    },
+    {
+        "id":150502,
+        "name":"Evaluation by Pathologist, IRS score for one cell compartment",
+        "specification":"Price per slide",
+        "Lagerartikel":"No",
+        "category_name":"Analytical services",
+        "unit_price":15
+    },
+    {
+        "id":150503,
+        "name":"Evaluation by Pathologist, H Score for one cell compartment",
+        "specification":"Price per slide",
+        "Lagerartikel":"No",
+        "category_name":"Analytical services",
+        "unit_price":22
+    },
+    {
+        "id":150504,
+        "name":"Evaluation by Pathologist, % positive cells",
+        "specification":"Price per slide",
+        "Lagerartikel":"No",
+        "category_name":"Analytical services",
+        "unit_price":12
+    },
+    {
+        "id":150505,
+        "name":"Quality check and approval by pathologist",
+        "specification":"Price per slide",
+        "Lagerartikel":"No",
+        "category_name":"Analytical services",
+        "unit_price":12
+    },
+    {
+        "id":150510,
+        "name":"Handling and documentation of customer samples",
+        "specification":"Price per sample",
+        "Lagerartikel":"No",
+        "category_name":"Analytical services",
+        "unit_price":16
+    },
+    {
+        "id":150512,
+        "name":"Selection of relevant FFPE tissue samples; transfer of basic clinical data into new data base",
+        "specification":"Price per block",
+        "Lagerartikel":"No",
+        "category_name":"Analytical services",
+        "unit_price":84
+    },
+    {
+        "id":151211,
+        "name":"Manufacturing and provision of 1 FFPE tissue slide, normal tissue",
+        "specification":"Price per slide",
+        "Lagerartikel":"No",
+        "category_name":"Analytical services",
+        "unit_price":55
+    },
+    {
+        "id":151311,
+        "name":"Provision of FFPE tissue block, normal tissue",
+        "specification":"Price per block",
+        "Lagerartikel":"No",
+        "category_name":"Analytical services",
+        "unit_price":830
+    },
+    {
+        "id":152211,
+        "name":"Manufacturing and provision of 1 FFPE tissue slide, pathological tissue",
+        "specification":"Price per slide",
+        "Lagerartikel":"No",
+        "category_name":"Analytical services",
+        "unit_price":55
+    },
+    {
+        "id":152311,
+        "name":"Provision of FFPE tissue block, pathological tissue",
+        "specification":"Price per block",
+        "Lagerartikel":"No",
+        "category_name":"Analytical services",
+        "unit_price":880
+    },
+    {
+        "id":190101,
+        "name":"Hourly rate, scientific personnel",
+        "specification":"Price per hour",
+        "Lagerartikel":"No",
+        "category_name":"Analytical services",
+        "unit_price":146
+    },
+    {
+        "id":190102,
+        "name":"Hourly rate, technical personnel",
+        "specification":"Price per hour",
+        "Lagerartikel":"No",
+        "category_name":"Analytical services",
+        "unit_price":101
+    },
+    {
+        "id":190200,
+        "name":"Handling fee for preparing export documentation",
+        "specification":"Price per order",
+        "Lagerartikel":"No",
+        "category_name":"Analytical services",
+        "unit_price":40
+    },
+    {
+        "id":240101,
+        "name":"Array block preparation up to 180 customer tissue samples with 10 mm diameter",
+        "specification":"180 x 1.0 mm",
+        "Lagerartikel":"No",
+        "category_name":"Customised TMA",
+        "unit_price":1038
+    },
+    {
+        "id":240102,
+        "name":"Array block preparation up to 115 customer tissue samples with 1.5 mm diameter",
+        "specification":"115 x 1.5 mm",
+        "Lagerartikel":"No",
+        "category_name":"Customised TMA",
+        "unit_price":809
+    },
+    {
+        "id":240103,
+        "name":"Array block preparation up to 80 customer tissue samples with 2.0 mm diameter",
+        "specification":"80 x 2.0 mm",
+        "Lagerartikel":"No",
+        "category_name":"Customised TMA",
+        "unit_price":645
+    },
+    {
+        "id":240105,
+        "name":"Array block preparation from samples of provitro tissue bank",
+        "specification":null,
+        "Lagerartikel":"No",
+        "category_name":"Customised TMA",
+        "unit_price":"on request"
+    },
+    {
+        "id":240211,
+        "name":"Manufacturing of 1 slide of TMA block",
+        "specification":"Price per slide",
+        "Lagerartikel":"No",
+        "category_name":"Customised TMA",
+        "unit_price":60
+    },
+    {
+        "id":240300,
+        "name":"Manufacturing of recipient block, designing of TMA layout and corresponding data sheet",
+        "specification":null,
+        "Lagerartikel":"No",
+        "category_name":"Customised TMA",
+        "unit_price":383
+    },
+    {
+        "id":240301,
+        "name":"Identification and encircling of relevant tissue areas on H&E slide",
+        "specification":"Price per core",
+        "Lagerartikel":"No",
+        "category_name":"Customised TMA",
+        "unit_price":11
+    },
+    {
+        "id":240302,
+        "name":"Transfer of marking of relevant tissue areas from H&E slide to donor block ",
+        "specification":"Price per core",
+        "Lagerartikel":"No",
+        "category_name":"Customised TMA",
+        "unit_price":11
+    },
+    {
+        "id":240303,
+        "name":"Punching & transfer of tissue core from marked donor block to recipient block",
+        "specification":"Price per core",
+        "Lagerartikel":"No",
+        "category_name":"Customised TMA",
+        "unit_price":8
+    },
+    {
+        "id":240304,
+        "name":"Selection of relevant FFPE tissue samples; transfer of basic clinical data into new data base",
+        "specification":"Price per donor block",
+        "Lagerartikel":"No",
+        "category_name":"Customised TMA",
+        "unit_price":84
+    },
+    {
+        "id":240402,
+        "name":"TMA slide scanning using automated digital histology system",
+        "specification":"Price per slide",
+        "Lagerartikel":"No",
+        "category_name":"Customised TMA",
+        "unit_price":49
+    },
+    {
+        "id":240505,
+        "name":"Quality check and approval by Pathologist",
+        "specification":"Price per spot",
+        "Lagerartikel":"No",
+        "category_name":"Customised TMA",
+        "unit_price":8
+    },
+    {
+        "id":240506,
+        "name":"Evaluation by Pathologist, IRS score for one cell compartment",
+        "specification":"Price per spot",
+        "Lagerartikel":"No",
+        "category_name":"Customised TMA",
+        "unit_price":14
+    },
+    {
+        "id":240507,
+        "name":"Evaluation by Pathologist, H Score for one cell compartment",
+        "specification":"Price per spot",
+        "Lagerartikel":"No",
+        "category_name":"Customised TMA",
+        "unit_price":22
+    },
+    {
+        "id":240508,
+        "name":"Evaluation by Pathologist, % positive cells",
+        "specification":"Price per spot",
+        "Lagerartikel":"No",
+        "category_name":"Customised TMA",
+        "unit_price":12
+    },
+    {
+        "id":240604,
+        "name":"Data collection and compilation in EXCEL spreadsheets",
+        "specification":"Price per case",
+        "Lagerartikel":"No",
+        "category_name":"Customised TMA",
+        "unit_price":4
+    },
+    {
+        "id":241301,
+        "name":"Manufacturing and provision of FFPE tissue core, normal tissue",
+        "specification":"1.0 mm diameter",
+        "Lagerartikel":"No",
+        "category_name":"Customised TMA",
+        "unit_price":82
+    },
+    {
+        "id":241302,
+        "name":"Manufacturing and provision of FFPE tissue core, normal tissue",
+        "specification":"1.5 mm diameter",
+        "Lagerartikel":"No",
+        "category_name":"Customised TMA",
+        "unit_price":87
+    },
+    {
+        "id":241303,
+        "name":"Manufacturing and provision of FFPE tissue core, normal tissue",
+        "specification":"2.0 mm diameter",
+        "Lagerartikel":"No",
+        "category_name":"Customised TMA",
+        "unit_price":99
+    },
+    {
+        "id":242301,
+        "name":"Manufacturing and provision of FFPE tissue core, pathological tissue",
+        "specification":"1.0 mm diameter",
+        "Lagerartikel":"No",
+        "category_name":"Customised TMA",
+        "unit_price":82
+    },
+    {
+        "id":242302,
+        "name":"Manufacturing and provision of FFPE tissue core, pathological tissue",
+        "specification":"1.5 mm diameter",
+        "Lagerartikel":"No",
+        "category_name":"Customised TMA",
+        "unit_price":87
+    },
+    {
+        "id":242303,
+        "name":"Manufacturing and provision of FFPE tissue core, pathological tissue",
+        "specification":"2.0 mm diameter",
+        "Lagerartikel":"No",
+        "category_name":"Customised TMA",
+        "unit_price":99
+    },
+    {
+        "id":360501,
+        "name":"RNA extraction from FFPE tissue",
+        "specification":"Price per sample",
+        "Lagerartikel":"No",
+        "category_name":"Nucleic acid process",
+        "unit_price":116
+    },
+    {
+        "id":360502,
+        "name":"DNA extraction from FFPE tissue",
+        "specification":"Price per sample",
+        "Lagerartikel":"No",
+        "category_name":"Nucleic acid process",
+        "unit_price":23
+    },
+    {
+        "id":360601,
+        "name":"Microdissection of relevant tissue area",
+        "specification":"Price per slide",
+        "Lagerartikel":"No",
+        "category_name":"Nucleic acid process",
+        "unit_price":52
+    },
+    {
+        "id":360701,
+        "name":"FISH analysis",
+        "specification":"Price per slide",
+        "Lagerartikel":"No",
+        "category_name":"Nucleic acid process",
+        "unit_price":497
+    },
+    {
+        "id":360801,
+        "name":"RNAscope CISH analysis",
+        "specification":"Price per slide",
+        "Lagerartikel":"No",
+        "category_name":"Nucleic acid process",
+        "unit_price":187
+    },
+    {
+        "id":360807,
+        "name":"Development of RNAscope CISH protocol",
+        "specification":null,
+        "Lagerartikel":"No",
+        "category_name":"Nucleic acid process",
+        "unit_price":4261
+    },
+    {
+        "id":360808,
+        "name":"Adjustment of RNAscope CISH protocol",
+        "specification":null,
+        "Lagerartikel":"No",
+        "category_name":"Nucleic acid process",
+        "unit_price":2294
+    },
+    {
+        "id":361211,
+        "name":"Manufacturing and provision of 1 FFPE tissue slide, normal tissue, 5 \u00b5m section",
+        "specification":"Price per slide",
+        "Lagerartikel":"No",
+        "category_name":"Nucleic acid process",
+        "unit_price":113
+    },
+    {
+        "id":361221,
+        "name":"Manufacturing and provision of 1 cryo tissue slide, normal tissue, 5 \u00b5m section",
+        "specification":"Price per slide",
+        "Lagerartikel":"No",
+        "category_name":"Nucleic acid process",
+        "unit_price":200
+    },
+    {
+        "id":361501,
+        "name":"RNA extraction from FFPE tissue including quality control",
+        "specification":"Electrophoresis and Agilent",
+        "Lagerartikel":"No",
+        "category_name":"Nucleic acid process",
+        "unit_price":176
+    },
+    {
+        "id":361502,
+        "name":"DNA extraction from FFPE tissue including quality control",
+        "specification":"PCR GAPDH, real time PCR",
+        "Lagerartikel":"No",
+        "category_name":"Nucleic acid process",
+        "unit_price":41
+    },
+    {
+        "id":361511,
+        "name":"RNA extraction from cryo tissue including quality control",
+        "specification":"Electrophoresis and Agilent",
+        "Lagerartikel":"No",
+        "category_name":"Nucleic acid process",
+        "unit_price":176
+    },
+    {
+        "id":361512,
+        "name":"DNA extraction from cryo tissue including quality control",
+        "specification":"PCR GAPDH, real time PCR",
+        "Lagerartikel":"No",
+        "category_name":"Nucleic acid process",
+        "unit_price":41
+    },
+    {
+        "id":362211,
+        "name":"Manufacturing and provision of 1 FFPE tissue slide, pathological tissue, 5 \u00b5m section",
+        "specification":"Price per slide",
+        "Lagerartikel":"No",
+        "category_name":"Nucleic acid process",
+        "unit_price":113
+    },
+    {
+        "id":362221,
+        "name":"Manufacturing and provision of 1 cryo tissue slide, pathological tissue, 5 \u00b5m section",
+        "specification":"Price per slide",
+        "Lagerartikel":"No",
+        "category_name":"Nucleic acid process",
+        "unit_price":200
+    },
+    {
+        "id":362501,
+        "name":"RNA quality control",
+        "specification":"Electrophoresis and Agilent",
+        "Lagerartikel":"No",
+        "category_name":"Nucleic acid process",
+        "unit_price":59
+    },
+    {
+        "id":362502,
+        "name":"DNA quality control",
+        "specification":"PCR GAPDH, real time PCR",
+        "Lagerartikel":"No",
+        "category_name":"Nucleic acid process",
+        "unit_price":17
+    },
+    {
+        "id":411110,
+        "name":"Normal adult tissue I",
+        "specification":"  30 x 1.5 mm",
+        "Lagerartikel":"Yes",
+        "category_name":"Standard TMA",
+        "unit_price":161
+    },
+    {
+        "id":411120,
+        "name":"Normal adult tissue II",
+        "specification":"  70 x 2.0 mm",
+        "Lagerartikel":"Yes",
+        "category_name":"Standard TMA",
+        "unit_price":209
+    },
+    {
+        "id":411130,
+        "name":"FDA recommended normal tissue panel",
+        "specification":"132 x 1.5 mm",
+        "Lagerartikel":"Yes",
+        "category_name":"Standard TMA",
+        "unit_price":525
+    },
+    {
+        "id":411210,
+        "name":"Normal adult brain tissue ",
+        "specification":"    9 x 1.5 mm",
+        "Lagerartikel":"Yes",
+        "category_name":"Standard TMA",
+        "unit_price":102
+    },
+    {
+        "id":411211,
+        "name":"Normal adult and fetal bone tissue",
+        "specification":"  20 x 2.0 mm",
+        "Lagerartikel":"Yes",
+        "category_name":"Standard TMA",
+        "unit_price":145
+    },
+    {
+        "id":411221,
+        "name":"Normal adult cartilage tissue I",
+        "specification":"  20 x 2.0 mm",
+        "Lagerartikel":"Yes",
+        "category_name":"Standard TMA",
+        "unit_price":145
+    },
+    {
+        "id":411222,
+        "name":"Normal embryonic and fetal cartilage tissue",
+        "specification":"  20 x 2.0 mm",
+        "Lagerartikel":"Yes",
+        "category_name":"Standard TMA",
+        "unit_price":211
+    },
+    {
+        "id":411223,
+        "name":"Normal adult and neonatal cartilage tissue",
+        "specification":"  40 x 2.0 mm",
+        "Lagerartikel":"Yes",
+        "category_name":"Standard TMA",
+        "unit_price":309
+    },
+    {
+        "id":411310,
+        "name":"Normal tissue, multi-species",
+        "specification":"  48 x 1.5 mm",
+        "Lagerartikel":"Yes",
+        "category_name":"Standard TMA",
+        "unit_price":137
+    },
+    {
+        "id":411401,
+        "name":"Stem cell rich tissue",
+        "specification":"  18 x 2.0 mm",
+        "Lagerartikel":"Yes",
+        "category_name":"Standard TMA",
+        "unit_price":145
+    },
+    {
+        "id":412101,
+        "name":"Lymphoma",
+        "specification":"20 x 2.0 mm",
+        "Lagerartikel":"Yes",
+        "category_name":"Standard TMA",
+        "unit_price":400
+    },
+    {
+        "id":412201,
+        "name":"Colon carcinoma",
+        "specification":"60 x 1.5 mm",
+        "Lagerartikel":"Yes",
+        "category_name":"Standard TMA",
+        "unit_price":270
+    },
+    {
+        "id":412202,
+        "name":"Mamma carcinoma",
+        "specification":"59 x 1.5 mm",
+        "Lagerartikel":"Yes",
+        "category_name":"Standard TMA",
+        "unit_price":288
+    },
+    {
+        "id":412203,
+        "name":"Cervical carcinoma",
+        "specification":"52 x 2.0 mm",
+        "Lagerartikel":"Yes",
+        "category_name":"Standard TMA",
+        "unit_price":170
+    },
+    {
+        "id":412204,
+        "name":"Lung carcinoma",
+        "specification":"54 x 1.5 mm & 6 x 2.0 mm",
+        "Lagerartikel":"Yes",
+        "category_name":"Standard TMA",
+        "unit_price":288
+    },
+    {
+        "id":412205,
+        "name":"Thyroid tumor, matched normal tissue and Morbus Basedow",
+        "specification":"101 x 1.5 mm",
+        "Lagerartikel":"Yes",
+        "category_name":"Standard TMA",
+        "unit_price":433
+    },
+    {
+        "id":412206,
+        "name":"Pancreas tumor, matched normal tissue and pancreatitis",
+        "specification":"96 x 1.5 mm",
+        "Lagerartikel":"Yes",
+        "category_name":"Standard TMA",
+        "unit_price":389
+    },
+    {
+        "id":412207,
+        "name":"Esophagus cancer",
+        "specification":"63 x 2.0 mm",
+        "Lagerartikel":"Yes",
+        "category_name":"Standard TMA",
+        "unit_price":376
+    },
+    {
+        "id":412208,
+        "name":"Cholangiocarcinoma, matched lymph node metastasis and matched normal liver",
+        "specification":"86 x 2.0 mm",
+        "Lagerartikel":"Yes",
+        "category_name":"Standard TMA",
+        "unit_price":326
+    },
+    {
+        "id":412209,
+        "name":"Prostate tumor, matched prostatic intraepithelial neoplasia (PIN) and normal tissue",
+        "specification":"77 x 1.5 mm",
+        "Lagerartikel":"Yes",
+        "category_name":"Standard TMA",
+        "unit_price":263
+    },
+    {
+        "id":412210,
+        "name":"Endometrium",
+        "specification":"60 x 2.0 mm",
+        "Lagerartikel":"Yes",
+        "category_name":"Standard TMA",
+        "unit_price":208
+    },
+    {
+        "id":412211,
+        "name":"Colon-UICC",
+        "specification":"71 x 2.0 mm",
+        "Lagerartikel":"Yes",
+        "category_name":"Standard TMA",
+        "unit_price":283
+    },
+    {
+        "id":412212,
+        "name":"Skeletal tumors",
+        "specification":"54 x 2.0 mm",
+        "Lagerartikel":"Yes",
+        "category_name":"Standard TMA",
+        "unit_price":170
+    },
+    {
+        "id":412213,
+        "name":"Ovarian carcinoma",
+        "specification":"75 x 1.5 mm",
+        "Lagerartikel":"Yes",
+        "category_name":"Standard TMA",
+        "unit_price":308
+    },
+    {
+        "id":412401,
+        "name":"Multitumor - 4 organs",
+        "specification":"12 x 2.0 mm",
+        "Lagerartikel":"Yes",
+        "category_name":"Standard TMA",
+        "unit_price":60
+    },
+    {
+        "id":412402,
+        "name":"Multitumor - 10 organs",
+        "specification":"22 x 2.0 mm",
+        "Lagerartikel":"Yes",
+        "category_name":"Standard TMA",
+        "unit_price":95
+    },
+    {
+        "id":412403,
+        "name":"Multitumor - 12 organs",
+        "specification":"24 x 2.0 mm",
+        "Lagerartikel":"Yes",
+        "category_name":"Standard TMA",
+        "unit_price":107
+    },
+    {
+        "id":413101,
+        "name":"Colitis",
+        "specification":"(36 +1) x 2.0 mm",
+        "Lagerartikel":"Yes",
+        "category_name":"Standard TMA",
+        "unit_price":297
+    },
+    {
+        "id":413201,
+        "name":"Synovitis",
+        "specification":"28 x 2.0 mm",
+        "Lagerartikel":"Yes",
+        "category_name":"Standard TMA",
+        "unit_price":275
+    },
+    {
+        "id":413301,
+        "name":"Autoimmune",
+        "specification":"43 x 2.0 mm",
+        "Lagerartikel":"Yes",
+        "category_name":"Standard TMA",
+        "unit_price":345
+    },
+    {
+        "id":414101,
+        "name":"Myocardial infarction",
+        "specification":"50 x 2.0 mm",
+        "Lagerartikel":"Yes",
+        "category_name":"Standard TMA",
+        "unit_price":138
+    },
+    {
+        "id":414102,
+        "name":"Myocardial hypertrophy I \u2013 left heart",
+        "specification":"22 x 2.0 mm",
+        "Lagerartikel":"Yes",
+        "category_name":"Standard TMA",
+        "unit_price":145
+    },
+    {
+        "id":414103,
+        "name":"Myocardial hypertrophy II \u2013 right heart",
+        "specification":"22 x 2.0 mm",
+        "Lagerartikel":"Yes",
+        "category_name":"Standard TMA",
+        "unit_price":145
+    },
+    {
+        "id":414201,
+        "name":"Vascular tissue",
+        "specification":"50 x 2.0 mm",
+        "Lagerartikel":"Yes",
+        "category_name":"Standard TMA",
+        "unit_price":182
+    },
+    {
+        "id":"DEG.ART.ASVD-a",
+        "name":"Arteria carotis interna, artherosclerosis",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Degenerative tissue",
+        "unit_price":880
+    },
+    {
+        "id":"DEG.ART.ASVD-b",
+        "name":"Arteria carotis interna, artherosclerosis",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Degenerative tissue",
+        "unit_price":270
+    },
+    {
+        "id":"DEG.BO.OA-a",
+        "name":"Ankle joint, osteoarthritis",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Degenerative tissue",
+        "unit_price":880
+    },
+    {
+        "id":"DEG.BO.OA-b",
+        "name":"Ankle joint, osteoarthritis",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Degenerative tissue",
+        "unit_price":270
+    },
+    {
+        "id":"DEG.BO.OP-a",
+        "name":"Bone, osteoporosis",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Degenerative tissue",
+        "unit_price":880
+    },
+    {
+        "id":"DEG.BO.OP-b",
+        "name":"Bone, osteoporosis",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Degenerative tissue",
+        "unit_price":270
+    },
+    {
+        "id":"DEG.CA.RA-a",
+        "name":"MCP joint, rheumatoid arthritis",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Degenerative tissue",
+        "unit_price":880
+    },
+    {
+        "id":"DEG.CA.RA-b",
+        "name":"MCP joint, rheumatoid arthritis",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Degenerative tissue",
+        "unit_price":270
+    },
+    {
+        "id":"DEG.CO.UC-a",
+        "name":"Colon, ulcerative colitis",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Degenerative tissue",
+        "unit_price":880
+    },
+    {
+        "id":"DEG.CO.UC-b",
+        "name":"Colon, ulcerative colitis",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Degenerative tissue",
+        "unit_price":270
+    },
+    {
+        "id":"DEG.HEA.CMP-a",
+        "name":"Heart, cardiomyopathy",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Degenerative tissue",
+        "unit_price":880
+    },
+    {
+        "id":"DEG.HEA.CMP-b",
+        "name":"Heart, cardiomyopathy",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Degenerative tissue",
+        "unit_price":270
+    },
+    {
+        "id":"DEG.HEA.MFS-a",
+        "name":"Valva aortae, Marfan syndrome",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Degenerative tissue",
+        "unit_price":880
+    },
+    {
+        "id":"DEG.HEA.MFS-b",
+        "name":"Valva aortae, Marfan syndrome",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Degenerative tissue",
+        "unit_price":270
+    },
+    {
+        "id":"DEG.HEA.MI-a",
+        "name":"Heart, heart infarction",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Degenerative tissue",
+        "unit_price":880
+    },
+    {
+        "id":"DEG.HEA.MI-b",
+        "name":"Heart, heart infarction",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Degenerative tissue",
+        "unit_price":270
+    },
+    {
+        "id":"DEG.JE.MC-a",
+        "name":"Jejunum, Morbus Crohn",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Degenerative tissue",
+        "unit_price":880
+    },
+    {
+        "id":"DEG.JE.MC-b",
+        "name":"Jejunum, Morbus Crohn",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Degenerative tissue",
+        "unit_price":270
+    },
+    {
+        "id":"DEG.LU.COPD-a",
+        "name":"Lung, COPD",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Degenerative tissue",
+        "unit_price":880
+    },
+    {
+        "id":"DEG.LU.COPD-b",
+        "name":"Lung, COPD",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Degenerative tissue",
+        "unit_price":270
+    },
+    {
+        "id":"IF.BI.PSC-a",
+        "name":"Bile duct\/Liver, Primary sclerosing cholangitis",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Inflammatory tissue",
+        "unit_price":880
+    },
+    {
+        "id":"IF.BI.PSC-b",
+        "name":"Bile duct\/Liver, Primary sclerosing cholangitis",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Inflammatory tissue",
+        "unit_price":270
+    },
+    {
+        "id":"IF.CO.DIVC-a",
+        "name":"Colon, diverticulitis",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Inflammatory tissue",
+        "unit_price":880
+    },
+    {
+        "id":"IF.CO.DIVC-b",
+        "name":"Colon, diverticulitis",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Inflammatory tissue",
+        "unit_price":270
+    },
+    {
+        "id":"IF.CO.UC-a",
+        "name":"Colon, ulcerative colitis",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Inflammatory tissue",
+        "unit_price":880
+    },
+    {
+        "id":"IF.CO.UC-b",
+        "name":"Colon, ulcerative colitis",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Inflammatory tissue",
+        "unit_price":270
+    },
+    {
+        "id":"IF.DU.CED-a",
+        "name":"Duodenum, celiac disease",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Inflammatory tissue",
+        "unit_price":880
+    },
+    {
+        "id":"IF.DU.CED-b",
+        "name":"Duodenum, celiac disease",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Inflammatory tissue",
+        "unit_price":270
+    },
+    {
+        "id":"IF.HEA.EC-a",
+        "name":"Valva aortae, endocarditis",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Inflammatory tissue",
+        "unit_price":880
+    },
+    {
+        "id":"IF.HEA.EC-b",
+        "name":"Valva aortae, endocarditis",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Inflammatory tissue",
+        "unit_price":270
+    },
+    {
+        "id":"IF.HEA.ICM-a",
+        "name":"Heart, myocarditis",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Inflammatory tissue",
+        "unit_price":880
+    },
+    {
+        "id":"IF.HEA.ICM-b",
+        "name":"Heart, myocarditis",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Inflammatory tissue",
+        "unit_price":270
+    },
+    {
+        "id":"IF.JE.MC-a",
+        "name":"Jejunum, Morbus Crohn",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Inflammatory tissue",
+        "unit_price":880
+    },
+    {
+        "id":"IF.JE.MC-b",
+        "name":"Jejunum, Morbus Crohn",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Inflammatory tissue",
+        "unit_price":270
+    },
+    {
+        "id":"IF.LI.HVG-a",
+        "name":"Liver, transplant rejection",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Inflammatory tissue",
+        "unit_price":880
+    },
+    {
+        "id":"IF.LI.HVG-b",
+        "name":"Liver, transplant rejection",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Inflammatory tissue",
+        "unit_price":270
+    },
+    {
+        "id":"IF.LI.PBC-a",
+        "name":"Liver, primary biliary cirrhosis",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Inflammatory tissue",
+        "unit_price":880
+    },
+    {
+        "id":"IF.LI.PBC-b",
+        "name":"Liver, primary biliary cirrhosis",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Inflammatory tissue",
+        "unit_price":270
+    },
+    {
+        "id":"IF.LIP.SJS-a",
+        "name":"Lip, Sj\u00f6rgen syndrome",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Inflammatory tissue",
+        "unit_price":880
+    },
+    {
+        "id":"IF.LIP.SJS-b",
+        "name":"Lip, Sj\u00f6rgen syndrome",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Inflammatory tissue",
+        "unit_price":270
+    },
+    {
+        "id":"IF.LN.SARC-a",
+        "name":"Lymph node, sarcoidosis",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Inflammatory tissue",
+        "unit_price":880
+    },
+    {
+        "id":"IF.LN.SARC-b",
+        "name":"Lymph node, sarcoidosis",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Inflammatory tissue",
+        "unit_price":270
+    },
+    {
+        "id":"IF.SK.VASC-a",
+        "name":"Skin, vasculitis",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Inflammatory tissue",
+        "unit_price":880
+    },
+    {
+        "id":"IF.SK.VASC-b",
+        "name":"Skin, vasculitis",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Inflammatory tissue",
+        "unit_price":270
+    },
+    {
+        "id":"IF.TH.MB-a",
+        "name":"Thyroid, Morbus Basedow",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Inflammatory tissue",
+        "unit_price":880
+    },
+    {
+        "id":"IF.TH.MB-b",
+        "name":"Thyroid, Morbus Basedow",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Inflammatory tissue",
+        "unit_price":270
+    },
+    {
+        "id":"IF.THG.HTH-a",
+        "name":"Thyroid, Hashimoto thyreoiditis",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Inflammatory tissue",
+        "unit_price":880
+    },
+    {
+        "id":"IF.THG.HTH-b",
+        "name":"Thyroid, Hashimoto thyreoiditis",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Inflammatory tissue",
+        "unit_price":270
+    },
+    {
+        "id":"IF.THG.THQ-a",
+        "name":"Thyroid, thyreoditis de Quervain",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Inflammatory tissue",
+        "unit_price":880
+    },
+    {
+        "id":"IF.THG.THQ-b",
+        "name":"Thyroid, thyreoditis de Quervain",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Inflammatory tissue",
+        "unit_price":270
+    },
+    {
+        "id":"N.AD-a",
+        "name":"Normal adrenal gland",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.AD-b",
+        "name":"Normal adrenal gland",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.ART-a",
+        "name":"Normal artery",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.ART-b",
+        "name":"Normal artery",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.ART.CO-a",
+        "name":"Normal coronary artery incl. heart muscle",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.ART.CO-b",
+        "name":"Normal coronary artery incl. heart muscle",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.BI-a",
+        "name":"Normal bile duct",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.BI-b",
+        "name":"Normal bile duct",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.BL-a",
+        "name":"Normal bladder",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.BL-b",
+        "name":"Normal bladder",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.BO-a",
+        "name":"Normal bone",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.BO-b",
+        "name":"Normal bone",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.BOM-a",
+        "name":"Normal bone marrow",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.BOM-b",
+        "name":"Normal bone marrow",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.BR-a",
+        "name":"Normal breast",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.BR-b",
+        "name":"Normal breast",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.CA-a",
+        "name":"Normal cartilage",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.CA-b",
+        "name":"Normal cartilage",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.CORE.CO-a",
+        "name":"Normal colon",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.CORE.CO-b",
+        "name":"Normal colon",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.CORE.RE-a",
+        "name":"Normal rectum",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.CORE.RE-b",
+        "name":"Normal rectum",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.ES-a",
+        "name":"Normal esophagus",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.ES-b",
+        "name":"Normal esophagus",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.FA-a",
+        "name":"Normal fat",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.FA-b",
+        "name":"Normal fat",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.FT-a",
+        "name":"Normal fallopian tube",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.FT-b",
+        "name":"Normal fallopian tube",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.GA-a",
+        "name":"Normal stomach",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.GA-b",
+        "name":"Normal stomach",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.GB-a",
+        "name":"Normal gallbladder",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.GB-b",
+        "name":"Normal gallbladder",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.HEA-a",
+        "name":"Normal heart",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.HEA-b",
+        "name":"Normal heart",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.HP-a",
+        "name":"Normal hypopharynx",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.HP-b",
+        "name":"Normal hypopharynx",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.IN.AP-a",
+        "name":"Normal appendix",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.IN.AP-b",
+        "name":"Normal appendix",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.IN.DU-a",
+        "name":"Normal duodenum",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.IN.DU-b",
+        "name":"Normal duodenum",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.IN.IL-a",
+        "name":"Normal ileum",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.IN.IL-b",
+        "name":"Normal ileum",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.IN.JE-a",
+        "name":"Normal jejunum",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.IN.JE-b",
+        "name":"Normal jejunum",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.LA-a",
+        "name":"Normal larynx",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.LA-b",
+        "name":"Normal larynx",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.LI-a",
+        "name":"Normal liver",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.LI-b",
+        "name":"Normal liver",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.LN-a",
+        "name":"Normal lymph node",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.LN-b",
+        "name":"Normal lymph node",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.LU-a",
+        "name":"Normal lung",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.LU-b",
+        "name":"Normal lung",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.NP-a",
+        "name":"Normal peripheral nerve",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.NP-b",
+        "name":"Normal peripheral nerve",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.OP-a",
+        "name":"Normal oropharynx",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.OP-b",
+        "name":"Normal oropharynx",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.OV-a",
+        "name":"Normal ovary",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.OV-b",
+        "name":"Normal ovary",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.PA-a",
+        "name":"Normal pancreas",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.PA-b",
+        "name":"Normal pancreas",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.PAR-a",
+        "name":"Normal parotid gland",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.PAR-b",
+        "name":"Normal parotid gland",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.PATH-a",
+        "name":"Normal parathyroid gland",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.PATH-b",
+        "name":"Normal parathyroid gland",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.PE-a",
+        "name":"Normal penis",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.PE-b",
+        "name":"Normal penis",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.PER-a",
+        "name":"Normal peritoneum",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.PER-b",
+        "name":"Normal peritoneum",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.PL-a",
+        "name":"Normal pleura",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.PL-b",
+        "name":"Normal pleura",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.PLA-a",
+        "name":"Normal placenta",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.PLA-b",
+        "name":"Normal placenta",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.PR-a",
+        "name":"Normal prostate",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.PR-b",
+        "name":"Normal prostate",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.PV-a",
+        "name":"Normal papilla vateri",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.PV-b",
+        "name":"Normal papilla vateri",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.RE-a",
+        "name":"Normal kidney",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.RE-b",
+        "name":"Normal kidney",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.REP-a",
+        "name":"Normal renal pelvis",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.REP-b",
+        "name":"Normal renal pelvis",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.SAG-a",
+        "name":"Normal salivary gland",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.SAG-b",
+        "name":"Normal salivary gland",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.SK-a",
+        "name":"Normal skin",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.SK-b",
+        "name":"Normal skin",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.SP-a",
+        "name":"Normal spleen",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.SP-b",
+        "name":"Normal spleen",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.STM-a",
+        "name":"Normal striated muscle",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.STM-b",
+        "name":"Normal striated muscle",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.TE-a",
+        "name":"Normal testis",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.TE-b",
+        "name":"Normal testis",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.TG-a",
+        "name":"Normal tongue",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.TG-b",
+        "name":"Normal tongue",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.THG-a",
+        "name":"Normal thyroid gland",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.THG-b",
+        "name":"Normal thyroid gland",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.THY-a",
+        "name":"Normal thymus",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.THY-b",
+        "name":"Normal thymus",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.TO-a",
+        "name":"Normal tonsil",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.TO-b",
+        "name":"Normal tonsil",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.UR-a",
+        "name":"Normal ureter",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.UR-b",
+        "name":"Normal ureter",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.UT.CE-a",
+        "name":"Normal uterus \/ cervix",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.UT.CE-b",
+        "name":"Normal uterus \/ cervix",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.UT.EN-a",
+        "name":"Normal uterus \/ endometrium",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.UT.EN-b",
+        "name":"Normal uterus \/ endometrium",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.VA-a",
+        "name":"Normal vagina",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.VA-b",
+        "name":"Normal vagina",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.VE-a",
+        "name":"Normal vein",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.VE-b",
+        "name":"Normal vein",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"N.VU-a",
+        "name":"Normal vulva",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":830
+    },
+    {
+        "id":"N.VU-b",
+        "name":"Normal vulva",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Normal tissue",
+        "unit_price":260
+    },
+    {
+        "id":"T_BL+Mx-a",
+        "name":"Human Bladder cancer and normal metastasis FFPE",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":1500
+    },
+    {
+        "id":"T_BL+Mx-b",
+        "name":"Human Bladder cancer and normal metastasis FFPE",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":480
+    },
+    {
+        "id":"T_BL+N-a",
+        "name":"Human Bladder cancer and normal adjacent tissue FFPE",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":1500
+    },
+    {
+        "id":"T_BL+N-b",
+        "name":"Human Bladder cancer and normal adjacent tissue FFPE",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":480
+    },
+    {
+        "id":"T_BR+Mx-a",
+        "name":"Human Breast Carcinoma and matched metastasis FFPE block",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":1500
+    },
+    {
+        "id":"T_BR+Mx-b",
+        "name":"Human Breast Carcinoma and matched metastasis FFPE block",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":480
+    },
+    {
+        "id":"T_BR+N-a",
+        "name":"Human Breast Carcinoma and normal adjacent tissue FFPE block",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":1500
+    },
+    {
+        "id":"T_BR+N-b",
+        "name":"Human Breast Carcinoma and normal adjacent tissue FFPE block",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":480
+    },
+    {
+        "id":"T_CE+Mx-a",
+        "name":"Human Cervical cancer and matched metastasis FFPE block",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":1500
+    },
+    {
+        "id":"T_CE+Mx-b",
+        "name":"Human Cervical cancer and matched metastasis FFPE block",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":480
+    },
+    {
+        "id":"T_CE+N-a",
+        "name":"Human Cervical cancer and normal adjacent tissue FFPE",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":1500
+    },
+    {
+        "id":"T_CE+N-b",
+        "name":"Human Cervical cancer and normal adjacent tissue FFPE",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":480
+    },
+    {
+        "id":"T_CORE+Mx-a",
+        "name":"Human Colorectal cancer and matched metastasis FFPE block",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":1500
+    },
+    {
+        "id":"T_CORE+Mx-b",
+        "name":"Human Colorectal cancer and matched metastasis FFPE block",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":480
+    },
+    {
+        "id":"T_CORE+N-a",
+        "name":"Human Colorectal cancer and normal adjacent tissue FFPE",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":1500
+    },
+    {
+        "id":"T_CORE+N-b",
+        "name":"Human Colorectal cancer and normal adjacent tissue FFPE",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":480
+    },
+    {
+        "id":"T_ES+Mx-a",
+        "name":"Human Esophageal cancer and matched metastasis FFPE block",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":1500
+    },
+    {
+        "id":"T_ES+Mx-b",
+        "name":"Human Esophageal cancer and matched metastasis FFPE block",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":480
+    },
+    {
+        "id":"T_ES+N-a",
+        "name":"Human Esophageal cancer and normal adjacent tissue FFPE",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":1500
+    },
+    {
+        "id":"T_ES+N-b",
+        "name":"Human Esophageal cancer and normal adjacent tissue FFPE",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":480
+    },
+    {
+        "id":"T_GA+Mx-a",
+        "name":"Human Stomach (gastric) cancer and matched metastasis FFPE block",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":1500
+    },
+    {
+        "id":"T_GA+Mx-b",
+        "name":"Human Stomach (gastric) cancer and matched metastasis FFPE block",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":480
+    },
+    {
+        "id":"T_GA+N-a",
+        "name":"Human Stomach (gastric) cancer and normal adjacent tissue FFPE",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":1500
+    },
+    {
+        "id":"T_GA+N-b",
+        "name":"Human Stomach (gastric) cancer and normal adjacent tissue FFPE",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":480
+    },
+    {
+        "id":"T_HN+Mx-a",
+        "name":"Human Head and Neck (H&N) carcinoma and matched metastasis FFPE block",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":1500
+    },
+    {
+        "id":"T_HN+Mx-b",
+        "name":"Human Head and Neck (H&N) carcinoma and matched metastasis FFPE block",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":480
+    },
+    {
+        "id":"T_HN+N-a",
+        "name":"Human Head and Neck (H&N) carcinoma and normal adjacent tissue FFPE",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":1500
+    },
+    {
+        "id":"T_HN+N-b",
+        "name":"Human Head and Neck (H&N) carcinoma and normal adjacent tissue FFPE",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":480
+    },
+    {
+        "id":"T_LU+Mx-a",
+        "name":"Human Lung cancer, non-small cell (NCSLC) and matched metastasis FFPE block",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":1500
+    },
+    {
+        "id":"T_LU+Mx-b",
+        "name":"Human Lung cancer, non-small cell (NCSLC) and matched metastasis FFPE block",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":480
+    },
+    {
+        "id":"T_LU+N-a",
+        "name":"Human Lung cancer, non-small cell (NCSLC) and normal adjacent tissue FFPE",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":1500
+    },
+    {
+        "id":"T_LU+N-b",
+        "name":"Human Lung cancer, non-small cell (NCSLC) and normal adjacent tissue FFPE",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":480
+    },
+    {
+        "id":"T_OV_E+Mx-a",
+        "name":"Human Endometrial cancerand matched metastasis FFPE block",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":1500
+    },
+    {
+        "id":"T_OV_E+Mx-b",
+        "name":"Human Endometrial cancerand matched metastasis FFPE block",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":480
+    },
+    {
+        "id":"T_OV_E+N-a",
+        "name":"Human Endometrial cancer and normal adjacent tissue FFPE",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":1500
+    },
+    {
+        "id":"T_OV_E+N-b",
+        "name":"Human Endometrial cancer and normal adjacent tissue FFPE",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":480
+    },
+    {
+        "id":"T_OV+Mx-a",
+        "name":"Human Ovarian adenocarcinoma and matched metastasis FFPE block",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":1500
+    },
+    {
+        "id":"T_OV+Mx-b",
+        "name":"Human Ovarian adenocarcinoma and matched metastasis FFPE block",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":480
+    },
+    {
+        "id":"T_OV+N-a",
+        "name":"Human Ovarian adenocarcinoma and normal adjacent tissue FFPE",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":1500
+    },
+    {
+        "id":"T_OV+N-b",
+        "name":"Human Ovarian adenocarcinoma and normal adjacent tissue FFPE",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":480
+    },
+    {
+        "id":"T_PA+Mx-a",
+        "name":"Human Pancreatic cancer and matched metastasis FFPE block",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":1500
+    },
+    {
+        "id":"T_PA+Mx-b",
+        "name":"Human Pancreatic cancer and matched metastasis FFPE block",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":480
+    },
+    {
+        "id":"T_PA+N-a",
+        "name":"Human Pancreatic cancer and normal adjacent tissue FFPE",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":1500
+    },
+    {
+        "id":"T_PA+N-b",
+        "name":"Human Pancreatic cancer and normal adjacent tissue FFPE",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":480
+    },
+    {
+        "id":"T_PR+Mx-a",
+        "name":"Human Prostate cancer and matched metastasis FFPE block",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":1500
+    },
+    {
+        "id":"T_PR+Mx-b",
+        "name":"Human Prostate cancer and matched metastasis FFPE block",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":480
+    },
+    {
+        "id":"T_PR+N-a",
+        "name":"Human Prostate cancer and normal adjacent tissue FFPE",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":1500
+    },
+    {
+        "id":"T_PR+N-b",
+        "name":"Human Prostate cancer and normal adjacent tissue FFPE",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":480
+    },
+    {
+        "id":"T_RE+Mx-a",
+        "name":"Human Kidney (renal cell) cancer and matched metastasis FFPE block",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":1500
+    },
+    {
+        "id":"T_RE+Mx-b",
+        "name":"Human Kidney (renal cell) cancer and matched metastasis FFPE block",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":480
+    },
+    {
+        "id":"T_RE+N-a",
+        "name":"Human Kidney (renal cell) cancer and normal adjacent tissue FFPE",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":1500
+    },
+    {
+        "id":"T_RE+N-b",
+        "name":"Human Kidney (renal cell) cancer and normal adjacent tissue FFPE",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":480
+    },
+    {
+        "id":"T_SCC+N-a",
+        "name":"Human Lung cancer, SSC, FFPE tissue block and normal adjacent tissue FFPE",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":1500
+    },
+    {
+        "id":"T_SCC+N-b",
+        "name":"Human Lung cancer, SSC, FFPE tissue block and normal adjacent tissue FFPE",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":480
+    },
+    {
+        "id":"T_SK+Mx-a",
+        "name":"Human Melanoma and matched metastasis FFPE block",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":1500
+    },
+    {
+        "id":"T_SK+Mx-b",
+        "name":"Human Melanoma and matched metastasis FFPE block",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":480
+    },
+    {
+        "id":"T_SK+N-a",
+        "name":"Human Melanoma and normal adjacent tissue FFPE",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":1500
+    },
+    {
+        "id":"T_SK+N-b",
+        "name":"Human Melanoma and normal adjacent tissue FFPE",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Matched pairs",
+        "unit_price":480
+    },
+    {
+        "id":"T.AD.ACA-a",
+        "name":"Adrenal, adrenocortical adenoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.AD.ACA-b",
+        "name":"Adrenal, adrenocortical adenoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.AD.ACC-a",
+        "name":"Adrenal, adrenocortical carcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.AD.ACC-b",
+        "name":"Adrenal, adrenocortical carcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.AD.PCC-a",
+        "name":"Adrenal, pheochromocytoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.AD.PCC-b",
+        "name":"Adrenal, pheochromocytoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.BI.CCC-a",
+        "name":"Bile duct, cholangiocarcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.BI.CCC-b",
+        "name":"Bile duct, cholangiocarcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.BL.PAP-a",
+        "name":"Bladder, papilloma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.BL.PAP-b",
+        "name":"Bladder, papilloma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.BL.SCC-a",
+        "name":"Bladder, squamous cell carcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.BL.SCC-b",
+        "name":"Bladder, squamous cell carcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.BL.TCC-a",
+        "name":"Bladder, transitional cell carcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.BL.TCC-b",
+        "name":"Bladder, transitional cell carcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.BL.TCC.NA-a",
+        "name":"Bladder, transitional cell carcinoma, pta (non invasive)",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.BL.TCC.NA-b",
+        "name":"Bladder, transitional cell carcinoma, pta (non invasive)",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.BO.CHO-a",
+        "name":"Bone \/ Cartilage, chondroma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.BO.CHO-b",
+        "name":"Bone \/ Cartilage, chondroma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.BO.CHS-a",
+        "name":"Bone \/ Cartilage, chondrosarcoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.BO.CHS-b",
+        "name":"Bone \/ Cartilage, chondrosarcoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.BO.EWS-a",
+        "name":"Bone \/ Cartilage, Ewing's sarcoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.BO.EWS-b",
+        "name":"Bone \/ Cartilage, Ewing's sarcoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.BO.GCT-a",
+        "name":"Bone \/ Cartilage, giant-cell tumor",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.BO.GCT-b",
+        "name":"Bone \/ Cartilage, giant-cell tumor",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.BO.OSA-a",
+        "name":"Bone \/ Cartilage, osteoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.BO.OSA-b",
+        "name":"Bone \/ Cartilage, osteoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.BO.OSB-a",
+        "name":"Bone \/ Cartilage, osteoblastoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.BO.OSB-b",
+        "name":"Bone \/ Cartilage, osteoblastoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.BO.OSO-a",
+        "name":"Bone \/ Cartilage, osteoid osteoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.BO.OSO-b",
+        "name":"Bone \/ Cartilage, osteoid osteoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.BO.OSS-a",
+        "name":"Bone \/ Cartilage, osteosarcoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.BO.OSS-b",
+        "name":"Bone \/ Cartilage, osteosarcoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.BO.PLC-a",
+        "name":"Bone \/ Cartilage, extramedullary plasmacytoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.BO.PLC-b",
+        "name":"Bone \/ Cartilage, extramedullary plasmacytoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.BR.DCIS-a",
+        "name":"Breast, ductal carcinoma in situ",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.BR.DCIS-b",
+        "name":"Breast, ductal carcinoma in situ",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.BR.FIA-a",
+        "name":"Breast, fibroadenoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.BR.FIA-b",
+        "name":"Breast, fibroadenoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.BR.IDC-a",
+        "name":"Breast, invasive ductal carcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.BR.IDC-b",
+        "name":"Breast, invasive ductal carcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.BR.ILC-a",
+        "name":"Breast, invasive lobular carcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.BR.ILC-b",
+        "name":"Breast, invasive lobular carcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.BR.LCIS-a",
+        "name":"Breast, lobular carcinoma in situ",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.BR.LCIS-b",
+        "name":"Breast, lobular carcinoma in situ",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.CE.ADC-a",
+        "name":"Cervix, adenocarcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.CE.ADC-b",
+        "name":"Cervix, adenocarcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.CE.SCC-a",
+        "name":"Cervix, squamous cell carcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.CE.SCC-b",
+        "name":"Cervix, squamous cell carcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.CORE.ACM-a",
+        "name":"Colorectal, adenocarcinoma, mucinous",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.CORE.ACM-b",
+        "name":"Colorectal, adenocarcinoma, mucinous",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.CORE.ADC-a",
+        "name":"Colorectal, adenocarcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.CORE.ADC-b",
+        "name":"Colorectal, adenocarcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.CORE.AT-a",
+        "name":"Colorectal, adenoma tubulary",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.CORE.AT-b",
+        "name":"Colorectal, adenoma tubulary",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.CORE.ATV-a",
+        "name":"Colorectal, adenoma tubulovillous",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.CORE.ATV-b",
+        "name":"Colorectal, adenoma tubulovillous",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.ES.ADC-a",
+        "name":"Esophagus, adenocarcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.ES.ADC-b",
+        "name":"Esophagus, adenocarcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.ES.SCC-a",
+        "name":"Esophagus, squamous cell carcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.ES.SCC-b",
+        "name":"Esophagus, squamous cell carcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.GA.AD-a",
+        "name":"Stomach, adenoma tubulovillous",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.GA.AD-b",
+        "name":"Stomach, adenoma tubulovillous",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.GA.DADC-a",
+        "name":"Stomach, adenomcaracinoma, diffuse",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.GA.DADC-b",
+        "name":"Stomach, adenomcaracinoma, diffuse",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.GB.ADC-a",
+        "name":"Gall bladder, adenocarcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.GB.ADC-b",
+        "name":"Gall bladder, adenocarcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.HEA.MY-a",
+        "name":"Heart, myxoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.HEA.MY-b",
+        "name":"Heart, myxoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.HN.HP.SCC-a",
+        "name":"Head & Neck, hypopharynx, squamous cell carcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.HN.HP.SCC-b",
+        "name":"Head & Neck, hypopharynx, squamous cell carcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.HN.LA.SCC-a",
+        "name":"Head & Neck, larynx, squamous cell carcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.HN.LA.SCC-b",
+        "name":"Head & Neck, larynx, squamous cell carcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.HN.NP.SCC-a",
+        "name":"Head & Neck, nasopharynx, squamous cell carcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.HN.NP.SCC-b",
+        "name":"Head & Neck, nasopharynx, squamous cell carcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.HN.O.SCC-a",
+        "name":"Head & Neck, mouth, squamous cell carcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.HN.O.SCC-b",
+        "name":"Head & Neck, mouth, squamous cell carcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.HN.OP.SCC-a",
+        "name":"Head & Neck, oropharynx, squamous cell carcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.HN.OP.SCC-b",
+        "name":"Head & Neck, oropharynx, squamous cell carcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.HN.T.SCC-a",
+        "name":"Head & Neck, tonsille, squamous cell carcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.HN.T.SCC-b",
+        "name":"Head & Neck, tonsille, squamous cell carcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.IN.ADC-a",
+        "name":"Stomach, adenocarcinoma, intestinal",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.IN.ADC-b",
+        "name":"Stomach, adenocarcinoma, intestinal",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.LI.AS-a",
+        "name":"Liver, angiosarcoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.LI.AS-b",
+        "name":"Liver, angiosarcoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.LI.HA-a",
+        "name":"Liver, hemangioma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.LI.HA-b",
+        "name":"Liver, hemangioma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.LI.HBL-a",
+        "name":"Liver, hepatoblastoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.LI.HBL-b",
+        "name":"Liver, hepatoblastoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.LI.HCC-a",
+        "name":"Liver, heaptocellular carcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.LI.HCC-b",
+        "name":"Liver, heaptocellular carcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.LN.ALCL-a",
+        "name":"Lympathic system, anaplastic large-cell lymphoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.LN.ALCL-b",
+        "name":"Lympathic system, anaplastic large-cell lymphoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.LN.AML-a",
+        "name":"Lympathic system, acute myeloid leukemia (AML-M3)",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.LN.AML-b",
+        "name":"Lympathic system, acute myeloid leukemia (AML-M3)",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.LN.BCLL-a",
+        "name":"Lympathic system, B-cell chronic lymphocytic leukemia",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.LN.BCLL-b",
+        "name":"Lympathic system, B-cell chronic lymphocytic leukemia",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.LN.BL-a",
+        "name":"Lympathic system, Burkitt lymphoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.LN.BL-b",
+        "name":"Lympathic system, Burkitt lymphoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.LN.DLBCL-a",
+        "name":"Lympathic system, diffuse large B cell lymphoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.LN.DLBCL-b",
+        "name":"Lympathic system, diffuse large B cell lymphoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.LN.FOL-a",
+        "name":"Lympathic system, follicular lymphoma grade 1",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.LN.FOL-b",
+        "name":"Lympathic system, follicular lymphoma grade 1",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.LN.HL-a",
+        "name":"Lympathic system, Hodgkin's lymphoma, nodular slecrosing",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.LN.HL-b",
+        "name":"Lympathic system, Hodgkin's lymphoma, nodular slecrosing",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.LN.MALT-a",
+        "name":"Lympathic system, MALT (mucosa-associated lymphoid tissue) lymphoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.LN.MALT-b",
+        "name":"Lympathic system, MALT (mucosa-associated lymphoid tissue) lymphoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.LN.MCL-a",
+        "name":"Lympathic system, mantle cell lymphoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.LN.MCL-b",
+        "name":"Lympathic system, mantle cell lymphoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.LN.MZL-a",
+        "name":"Lympathic system, marginal zone B cell lymphoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.LN.MZL-b",
+        "name":"Lympathic system, marginal zone B cell lymphoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.LN.PTCL-a",
+        "name":"Lympathic system, peripheral t-cell lymphoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.LN.PTCL-b",
+        "name":"Lympathic system, peripheral t-cell lymphoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.LU.ADC-a",
+        "name":"Lung, adenocarcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.LU.ADC-b",
+        "name":"Lung, adenocarcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.LU.SCC-a",
+        "name":"Lung, squamous cell carcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.LU.SCC-b",
+        "name":"Lung, squamous cell carcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.LU.SCLC-a",
+        "name":"Lung, small cell carcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.LU.SCLC-b",
+        "name":"Lung, small cell carcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.OV.BLT-a",
+        "name":"Ovary, borderline tumor",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.OV.BLT-b",
+        "name":"Ovary, borderline tumor",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.OV.CCC-a",
+        "name":"Ovary, clear cell carcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.OV.CCC-b",
+        "name":"Ovary, clear cell carcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.OV.EADC-a",
+        "name":"Ovary, endometrioid adenocarcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.OV.EADC-b",
+        "name":"Ovary, endometrioid adenocarcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.OV.GCT-a",
+        "name":"Ovary, granulosa cell tumor",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.OV.GCT-b",
+        "name":"Ovary, granulosa cell tumor",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.OV.HGSC-a",
+        "name":"Ovary, serous carcinoma, high grade",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.OV.HGSC-b",
+        "name":"Ovary, serous carcinoma, high grade",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.OV.LGSC-a",
+        "name":"Ovary, serous carcinoma, low grade",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.OV.LGSC-b",
+        "name":"Ovary, serous carcinoma, low grade",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.OV.MADC-a",
+        "name":"Ovary, mucinous adenocarcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.OV.MADC-b",
+        "name":"Ovary, mucinous adenocarcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.OV.MCA-a",
+        "name":"Ovary, mucinous cystadenoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.OV.MCA-b",
+        "name":"Ovary, mucinous cystadenoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.OV.TRT-a",
+        "name":"Ovary, teratoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.OV.TRT-b",
+        "name":"Ovary, teratoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.PA.ACC-a",
+        "name":"Pancreas, acinic cell carcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.PA.ACC-b",
+        "name":"Pancreas, acinic cell carcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.PA.ADC-a",
+        "name":"Pancreas, adenocarcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.PA.ADC-b",
+        "name":"Pancreas, adenocarcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.PA.MCA-a",
+        "name":"Pancreas, mucinous cystadenoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.PA.MCA-b",
+        "name":"Pancreas, mucinous cystadenoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.PA.NEC-a",
+        "name":"Pancreas, neuroendocrine carcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.PA.NEC-b",
+        "name":"Pancreas, neuroendocrine carcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.PATH.A-a",
+        "name":"Parathyroid, chief cell adenoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.PATH.A-b",
+        "name":"Parathyroid, chief cell adenoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.PE.SCC-a",
+        "name":"Penis, squamous cell carcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.PE.SCC-b",
+        "name":"Penis, squamous cell carcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.PER.EMT-a",
+        "name":"Peritoneum, mesothelioma, epithelioid",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.PER.EMT-b",
+        "name":"Peritoneum, mesothelioma, epithelioid",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.PL.EMT-a",
+        "name":"Pleura, mesothelioma, epithelioid",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.PL.EMT-b",
+        "name":"Pleura, mesothelioma, epithelioid",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.PR.ADC-a",
+        "name":"Prostate, adenocarcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.PR.ADC-b",
+        "name":"Prostate, adenocarcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.PV.ADC-a",
+        "name":"Papilla vateri, adenocarcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.PV.ADC-b",
+        "name":"Papilla vateri, adenocarcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.PV.TVA-a",
+        "name":"Papilla vateri, adenoma tubulovillous",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.PV.TVA-b",
+        "name":"Papilla vateri, adenoma tubulovillous",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.RE.ALMP-a",
+        "name":"Kidney, angioleiomyolipoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.RE.ALMP-b",
+        "name":"Kidney, angioleiomyolipoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.RE.CCC-a",
+        "name":"Kidney, clear cell carcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.RE.CCC-b",
+        "name":"Kidney, clear cell carcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.RE.CPC-a",
+        "name":"Kidney, chromophobe carcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.RE.CPC-b",
+        "name":"Kidney, chromophobe carcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.RE.NBL-a",
+        "name":"Kidney, nephroblastoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.RE.NBL-b",
+        "name":"Kidney, nephroblastoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.RE.OC-a",
+        "name":"Kidney, oncocytoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.RE.OC-b",
+        "name":"Kidney, oncocytoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.RE.PAC-a",
+        "name":"Kidney, papillary carcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.RE.PAC-b",
+        "name":"Kidney, papillary carcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.REP.NTCC-a",
+        "name":"Renal pelvis, transitional cell carcinoma, pta (non invasive)",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.REP.NTCC-b",
+        "name":"Renal pelvis, transitional cell carcinoma, pta (non invasive)",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.REP.PTCC-a",
+        "name":"Renal pelvis, transitional cell carcinoma, papillary",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.REP.PTCC-b",
+        "name":"Renal pelvis, transitional cell carcinoma, papillary",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.SAG.ACC-a",
+        "name":"Salivary gland, acinic cell carcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.SAG.ACC-a",
+        "name":"Salivary gland, adenoid cystic carcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.SAG.ACC-b",
+        "name":"Salivary gland, acinic cell carcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.SAG.ACC-b",
+        "name":"Salivary gland, adenoid cystic carcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.SAG.ADC-a",
+        "name":"Salivary gland, adenocarcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.SAG.ADC-b",
+        "name":"Salivary gland, adenocarcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.SAG.BCC-a",
+        "name":"Salivary gland, basal cell adenoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.SAG.BCC-b",
+        "name":"Salivary gland, basal cell adenoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.SAG.CAL-a",
+        "name":"Salivary gland, Warthin's tumor (papillary cystadenoma lymphomatosum)",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.SAG.CAL-b",
+        "name":"Salivary gland, Warthin's tumor (papillary cystadenoma lymphomatosum)",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.SAG.MEC-a",
+        "name":"Salivary gland, mucoepidermoid carcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.SAG.MEC-b",
+        "name":"Salivary gland, mucoepidermoid carcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.SAG.OC-a",
+        "name":"Salivary gland, oncocytoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.SAG.OC-b",
+        "name":"Salivary gland, oncocytoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.SAG.PMC-a",
+        "name":"Salivary gland, pleomorphic adenoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.SAG.PMC-b",
+        "name":"Salivary gland, pleomorphic adenoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.SK.BCC-a",
+        "name":"Skin, basal cell carcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.SK.BCC-b",
+        "name":"Skin, basal cell carcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.SK.BFHC-a",
+        "name":"Skin, benign fibrous histiocytoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.SK.BFHC-b",
+        "name":"Skin, benign fibrous histiocytoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.SK.MEL-a",
+        "name":"Skin, melanoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.SK.MEL-b",
+        "name":"Skin, melanoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.SK.NEV-a",
+        "name":"Skin, nevus",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.SK.NEV-b",
+        "name":"Skin, nevus",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.SK.SCC-a",
+        "name":"Skin, squamous cell carcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.SK.SCC-b",
+        "name":"Skin, squamous cell carcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.ST.FS-a",
+        "name":"Soft tissue \/ Fat tissue, myxofibrosarcoma, g1",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.ST.FS-b",
+        "name":"Soft tissue \/ Fat tissue, myxofibrosarcoma, g1",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.ST.KS-a",
+        "name":"Soft tissue \/ Fat tissue, Kaposi's sarcoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.ST.KS-b",
+        "name":"Soft tissue \/ Fat tissue, Kaposi's sarcoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.ST.LIP-a",
+        "name":"Soft tissue \/ Fat tissue, lipoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.ST.LIP-b",
+        "name":"Soft tissue \/ Fat tissue, lipoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.ST.LIS-a",
+        "name":"Soft tissue \/ Fat tissue, liposarcoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.ST.LIS-b",
+        "name":"Soft tissue \/ Fat tissue, liposarcoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.ST.LMS-a",
+        "name":"Soft tissue \/ Fat tissue, leiomyosarcoma, pleomorphic",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.ST.LMS-b",
+        "name":"Soft tissue \/ Fat tissue, leiomyosarcoma, pleomorphic",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.ST.RMS-a",
+        "name":"Soft tissue \/ Fat tissue, rhabdomyosarcoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.ST.RMS-b",
+        "name":"Soft tissue \/ Fat tissue, rhabdomyosarcoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.ST.SYS-a",
+        "name":"Soft tissue \/ Fat tissue, synovial sarcoma, biphasic",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.ST.SYS-b",
+        "name":"Soft tissue \/ Fat tissue, synovial sarcoma, biphasic",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.ST.UPS-a",
+        "name":"Soft tissue \/ Fat tissue, undifferentiated pleomorphic sarcoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.ST.UPS-b",
+        "name":"Soft tissue \/ Fat tissue, undifferentiated pleomorphic sarcoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.STO.GIST-a",
+        "name":"Stomach, gastrointestinal stromal tumor, epitheloid",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.STO.GIST-b",
+        "name":"Stomach, gastrointestinal stromal tumor, epitheloid",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.STO.NEC-a",
+        "name":"Stomach, neuroendocrine, large cell carcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.STO.NEC-b",
+        "name":"Stomach, neuroendocrine, large cell carcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.STO.SRCC-a",
+        "name":"Stomach, signet-ring cell carcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.STO.SRCC-b",
+        "name":"Stomach, signet-ring cell carcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.TE.EC-a",
+        "name":"Testis, embryonal carcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.TE.EC-b",
+        "name":"Testis, embryonal carcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.TE.MNGCT-a",
+        "name":"Testis, mixed nonseminomatous germ cell tumor",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.TE.MNGCT-b",
+        "name":"Testis, mixed nonseminomatous germ cell tumor",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.TE.SEM-a",
+        "name":"Testis, seminoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.TE.SEM-b",
+        "name":"Testis, seminoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.TE.TRT-a",
+        "name":"Testis, teratoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.TE.TRT-b",
+        "name":"Testis, teratoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.TH.APC-a",
+        "name":"Thyroid, anaplastic carcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.TH.APC-b",
+        "name":"Thyroid, anaplastic carcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.TH.FA-a",
+        "name":"Thyroid, follicular adenoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.TH.FA-b",
+        "name":"Thyroid, follicular adenoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.TH.FC-a",
+        "name":"Thyroid, follicular carcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.TH.FC-b",
+        "name":"Thyroid, follicular carcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.TH.FVPTC-a",
+        "name":"Thyroid, papillary, follicular variant, carcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.TH.FVPTC-b",
+        "name":"Thyroid, papillary, follicular variant, carcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.TH.MC-a",
+        "name":"Thyroid, medullary carcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.TH.MC-b",
+        "name":"Thyroid, medullary carcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.TH.PC-a",
+        "name":"Thyroid, papillary carcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.TH.PC-b",
+        "name":"Thyroid, papillary carcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.TH.PDC-a",
+        "name":"Thyroid, poorly differentiated carcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.TH.PDC-b",
+        "name":"Thyroid, poorly differentiated carcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.THY.TB2-a",
+        "name":"Thymus, thymoma type B2",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.THY.TB2-b",
+        "name":"Thymus, thymoma type B2",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.THY.TC-a",
+        "name":"Thymus, thymic carcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.THY.TC-b",
+        "name":"Thymus, thymic carcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.TU.SADC-a",
+        "name":"Tube, serous adenocarcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.TU.SADC-b",
+        "name":"Tube, serous adenocarcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.UT.CCC-a",
+        "name":"Uterus \n(Endometrium \/ Myometrium), clear cell carcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.UT.CCC-b",
+        "name":"Uterus \n(Endometrium \/ Myometrium), clear cell carcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.UT.EADC-a",
+        "name":"Uterus \n(Endometrium \/ Myometrium), endometrioid adenocarcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.UT.EADC-b",
+        "name":"Uterus \n(Endometrium \/ Myometrium), endometrioid adenocarcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.UT.ESS-a",
+        "name":"Uterus \n(Endometrium \/ Myometrium), endometrial stromal sarcoma, low grade",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.UT.ESS-b",
+        "name":"Uterus \n(Endometrium \/ Myometrium), endometrial stromal sarcoma, low grade",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.UT.LM-a",
+        "name":"Uterus \n(Endometrium \/ Myometrium), leiomyoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.UT.LM-b",
+        "name":"Uterus \n(Endometrium \/ Myometrium), leiomyoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.UT.LMS-a",
+        "name":"Uterus \n(Endometrium \/ Myometrium), leiomyosarcoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.UT.LMS-b",
+        "name":"Uterus \n(Endometrium \/ Myometrium), leiomyosarcoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.UT.MMMT-a",
+        "name":"Uterus \n(Endometrium \/ Myometrium), carcinosarcoma \/ mixed M\u00fcllerian tumor",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.UT.MMMT-b",
+        "name":"Uterus \n(Endometrium \/ Myometrium), carcinosarcoma \/ mixed M\u00fcllerian tumor",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.UT.SADC-a",
+        "name":"Uterus \n(Endometrium \/ Myometrium), serous adenocarcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.UT.SADC-b",
+        "name":"Uterus \n(Endometrium \/ Myometrium), serous adenocarcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.VA.SCC-a",
+        "name":"Vagina, squamous cell carcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.VA.SCC-b",
+        "name":"Vagina, squamous cell carcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    },
+    {
+        "id":"T.VU.SCC-a",
+        "name":"Vulva, squamous cell carcinoma",
+        "specification":"Price per block",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":880
+    },
+    {
+        "id":"T.VU.SCC-b",
+        "name":"Vulva, squamous cell carcinoma",
+        "specification":"Price per pack of 5 tissue sections",
+        "Lagerartikel":"Yes",
+        "category_name":"Tumor tissue",
+        "unit_price":270
+    }
+]
