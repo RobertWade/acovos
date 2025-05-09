@@ -1,5 +1,6 @@
 {
-  "extends": [
-    "@antfu"
-  ]
+  "extends": "eslint:recommended",
+  "env": {
+    "node": true
+  }
 }
